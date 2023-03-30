@@ -1,8 +1,7 @@
-import React,{useState} from "react";
 import {AiFillTwitterCircle,AiFillLinkedin,AiFillInstagram,AiFillGithub} from "react-icons/ai";
 import {BsFacebook} from "react-icons/bs";
 import Copyright from "./Copyright";
-import Link from 'next/link';
+
 
 
 const Footer =()=>{
@@ -14,7 +13,7 @@ const Footer =()=>{
 <div className=" flex flex-col justify-between mb-10 md:flex-row">
    <div className="max-auto w-full px-5 justify-center">
     <h1 className='inline-block pl-[25%] md:px-20  py-3 mt-20 ml-20 text-2xl font-burtons '>SDEV</h1>
-    <p className="flex px-2 max-w-md text-center">If you need programming or design content services, I am a freelancer ready to help. Let's collaborate and get started today!</p>
+    <p className="flex px-2 max-w-md text-center">If you need programming or design content services, I am a freelancer ready to help. Let&apos;s collaborate and get started today!</p>
   </div>
   <div>
   <h1 className=' inline-block pl-[41%] md:px-20 py-3 mt-20 md:ml-20 text-2xl font-burtons md:mr-20 '>SOCIAL</h1>

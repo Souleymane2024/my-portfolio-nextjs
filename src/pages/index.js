@@ -49,7 +49,7 @@ const scroll=()=>{
           </div>
 
          <h3 className='text-2xl py-2 md:text-3xl text-green-700'>Frontend developer and designer.</h3>
-         <p className='text-md pt-2 pb-5 leading- text-gray-800 md:text-xl max-w-md mx-auto dark:text-white ' >If you need programming or design content services, I am a freelancer ready to help. Let's collaborate and get started today!</p>
+         <p className='text-md pt-2 pb-5 leading- text-gray-800 md:text-xl max-w-md mx-auto dark:text-white ' >If you need programming or design content services, I am a freelancer ready to help. Let&apos;s collaborate and get started today!</p>
          <button onClick={scroll} className="bg-transparent hover:bg-green-500 text-black dark:text-white font-semibold hover:text-white py-2 px-4 border border-green-500 hover:border-transparent rounded">
          PROJECTS
            </button>
@@ -65,19 +65,19 @@ const scroll=()=>{
 <div className='text-center mb-100'>
 <div>
   <h2 className=' text-center mt-20 mb-3 text-3xl inline border-b-4 border-green-700  text-green-600 font-medium md:text-4xl'>ABOUT ME</h2>
-  <p className='max-w-md mx-auto mb-10 text-gray-900 mt-6 dark:text-white px-4 md:text-lg'>Here, you'll find additional information about me, my current skills, and the work that I do, with a focus on <strong className='dark:text-green-600'>programming</strong> and <strong className='dark:text-green-600'>technology</strong>.</p>
+  <p className='max-w-md mx-auto mb-10 text-gray-900 mt-6 dark:text-white px-4 md:text-lg'>Here, you&apos;ll find additional information about me, my current skills, and the work that I do, with a focus on <strong className='dark:text-green-600'>programming</strong> and <strong className='dark:text-green-600'>technology</strong>.</p>
   </div>
  <div id="1" className='mt-8 dark:text-white'>
 <p  className='max-w-md mx-auto px-4 md:text-lg'>
-I'm Souleymane, a <strong className='dark:text-green-600' >frontend developer</strong> with <strong className='dark:text-green-600'>1.5</strong> years of experience creating engaging and user-friendly websites. My passion is designing and developing beautiful, functional websites that meet my clients' needs and exceed their expectations.
+I&apos;m Souleymane, a <strong className='dark:text-green-600' >frontend developer</strong> with <strong className='dark:text-green-600'>1.5</strong> years of experience creating engaging and user-friendly websites. My passion is designing and developing beautiful, functional websites that meet my clients&apos; needs and exceed their expectations.
 </p>
 <p className='max-w-md mx-auto px-4 py-2 md:text-lg  '>
-My skills include <strong className='dark:text-green-600'>HTML, CSS, JavaScript,</strong> and other related <strong className='dark:text-green-600'>technologies</strong>. I'm always learning and staying up-to-date with the latest trends in <strong className='dark:text-green-600'>web development</strong> to ensure the websites I build are functional and perform well across different platforms and devices.
+My skills include <strong className='dark:text-green-600'>HTML, CSS, JavaScript,</strong> and other related <strong className='dark:text-green-600'>technologies</strong>. I&apos;m always learning and staying up-to-date with the latest trends in <strong className='dark:text-green-600'>web development</strong> to ensure the websites I build are functional and perform well across different platforms and devices.
 </p>
 <p className='max-w-md mx-auto px-4 pb-2 md:text-lg'>
-I enjoy collaborating with clients to understand their unique needs and goals, and working with them to create the best possible solutions. When I'm not coding, I'm exploring new technologies, reading tech blogs, or enjoying the great outdoors.
+I enjoy collaborating with clients to understand their unique needs and goals, and working with them to create the best possible solutions. When I&apos;m not coding, I&apos;m exploring new technologies, reading tech blogs, or enjoying the great outdoors.
 </p>
-<p className='max-w-md mx-auto px-4 md:text-lg' >Check out some of the work I've done in the <strong className='dark:text-green-600'>projects</strong> section. If you're interested in working with me, please don't hesitate to get in touch!</p>
+<p className='max-w-md mx-auto px-4 md:text-lg' >Check out some of the work I&apos;ve done in the <strong className='dark:text-green-600'>projects</strong> section. If you&apos;re interested in working with me, please don&apos;t hesitate to get in touch!</p>
 </div>
 <div className=''>
   <h2 className=' text-center mt-20 mb-10 text-2xl  text-green-600 font-medium md:text-3xl' >My Skills</h2>
